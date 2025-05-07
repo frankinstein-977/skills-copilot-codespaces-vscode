@@ -1,0 +1,11 @@
+{
+    // Name this configuration
+    "name": "D1 with AI",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
+}
